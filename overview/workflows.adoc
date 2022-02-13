@@ -1,0 +1,9 @@
+{:title "Git Workflows"
+ :layout :page
+ :page-index 1
+ :section "Overview"}
+
+
+Git workflows page
+
+image::https://raw.githubusercontent.com/practicalli-john/developer-guides/master/git-and-github-workflow.svg[Git and GitHub workflow]
