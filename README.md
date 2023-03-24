@@ -9,11 +9,11 @@
 
 ## Book status
 
-[![MegaLinter](https://github.com/practicalli/gitops/actions/workflows/megalinter.yaml/badge.svg)](https://github.com/practicalli/gitops/actions/workflows/megalinter.yaml)[![Publish Book](https://github.com/practicalli/gitops/actions/workflows/publish-book.yaml/badge.svg)](https://github.com/practicalli/gitops/actions/workflows/publish-book.yaml){target=_blank}
-[![pages-build-deployment](https://github.com/practicalli/gitops/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/practicalli/gitops/actions/workflows/pages/pages-build-deployment){target=_blank}
+[![MegaLinter](https://github.com/practicalli/gitops/actions/workflows/megalinter.yaml/badge.svg)](https://github.com/practicalli/gitops/actions/workflows/megalinter.yaml)[![Publish Book](https://github.com/practicalli/gitops/actions/workflows/publish-book.yaml/badge.svg)](https://github.com/practicalli/gitops/actions/workflows/publish-book.yaml)
+[![pages-build-deployment](https://github.com/practicalli/gitops/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/practicalli/gitops/actions/workflows/pages/pages-build-deployment)
 
-[![Ideas & Issues](https://img.shields.io/github/issues/practicalli/gitops?label=content%20ideas%20and%20issues&logoColor=green&style=for-the-badge)](https://github.com/practicalli/clojure-practicalli-content/issues){target=_blank}
-[![Pull requests](https://img.shields.io/github/issues-pr/practicalli/gitops?style=for-the-badge)](https://github.com/practicalli/clojure-practicalli-content/pulls){target=_blank}
+[![Ideas & Issues](https://img.shields.io/github/issues/practicalli/gitops?label=content%20ideas%20and%20issues&logoColor=green&style=for-the-badge)](https://github.com/practicalli/clojure-practicalli-content/issues)
+[![Pull requests](https://img.shields.io/github/issues-pr/practicalli/gitops?style=for-the-badge)](https://github.com/practicalli/clojure-practicalli-content/pulls)
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/practicalli/gitops?style=for-the-badge)
 ![GitHub contributors](https://img.shields.io/github/contributors/practicalli/clojure?style=for-the-badge&label=github%20contributors)
