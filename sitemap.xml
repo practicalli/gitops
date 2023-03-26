@@ -2,47 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://practical.li/gitops/</loc>
-         <lastmod>2023-03-24</lastmod>
+         <lastmod>2023-03-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://practical.li/gitops/assets/images/social/</loc>
-         <lastmod>2023-03-24</lastmod>
+         <lastmod>2023-03-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://practical.li/gitops/install/</loc>
-         <lastmod>2023-03-24</lastmod>
+         <lastmod>2023-03-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://practical.li/gitops/install/git-config/</loc>
-         <lastmod>2023-03-24</lastmod>
+         <lastmod>2023-03-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://practical.li/gitops/introduction/ci-workflow/</loc>
-         <lastmod>2023-03-24</lastmod>
+         <lastmod>2023-03-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://practical.li/gitops/introduction/contributing/</loc>
-         <lastmod>2023-03-24</lastmod>
+         <lastmod>2023-03-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://practical.li/gitops/introduction/gitops/</loc>
-         <lastmod>2023-03-24</lastmod>
+         <lastmod>2023-03-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://practical.li/gitops/introduction/repl-workflow/</loc>
-         <lastmod>2023-03-24</lastmod>
+         <lastmod>2023-03-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://practical.li/gitops/introduction/writing-tips/</loc>
-         <lastmod>2023-03-24</lastmod>
+         <lastmod>2023-03-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
