@@ -7,16 +7,17 @@ Please follow these guidelines when submitting a pull request
 - Avoid multiple changes across multiple files (raise an issue so we can discuss)
 - Avoid a long list of spelling or grammar corrections.  These take too long to review and cherry pick.
 
-
 ## Submitting articles
+
 [Create an issue using the article template](https://github.com/practicalli/blog-content/issues/new?assignees=&labels=article&template=article.md&title=Suggested+article+title),
 providing as much detail as possible.
 
 ## Website design
+
 Suggestions about website design changes are most welcome, especially in terms of usability and accessibility.
 
 Please raise an issue so we can discuss changes first, especially changes related to aesthetics.
 
-
 ## Review process
-All pull requests are reviewed by @jr0cket and feedback provided, usually the same day but please be patient.
+
+All pull requests are reviewed by @practicalli-john and feedback provided, usually the same day but please be patient.
