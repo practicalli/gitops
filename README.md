@@ -1,3 +1,5 @@
+# Practicall GitOps
+
 ```none
 ██████╗ ██████╗  █████╗  ██████╗████████╗██╗ ██████╗ █████╗ ██╗     ██╗     ██╗
 ██╔══██╗██╔══██╗██╔══██╗██╔════╝╚══██╔══╝██║██╔════╝██╔══██╗██║     ██║     ██║
@@ -82,14 +84,19 @@ pip3 install mkdocs-material mkdocs-callouts mkdocs-glightbox mkdocs-git-revisio
 Fork the GitHub repository and clone that fork to your computer,
 
 ```bash
-git clone https://github.com/<your-github-account>/clojure.git
-
+git clone https://github.com/<your-github-account>/<repository>.git
 ```
 
 Run a local server from the root of the cloned project
 
 ```bash
-mkdocs serve
+make docs
 ```
 
-The website will open at http://localhost:8000
+The website will open at <http://localhost:8000>
+
+If making smaller changes, then only rebuild the content that changes, speeding up the local development process
+```bash
+make docs
+```
+
