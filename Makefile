@@ -6,7 +6,7 @@
 
 # .PHONY: ensures target used rather than matching file name
 # https://makefiletutorial.com/#phony
-.PHONY: all clean docs lint pre-commit-check
+.PHONY: all clean docs lint pre-commit-check test
 
 
 # ------- Makefile Variables --------- #
@@ -16,6 +16,10 @@
 
 # Column the target description is printed from
 HELP-DESCRIPTION-SPACING := 24
+
+# Tool Commands
+MEGALINTER_RUNNER := npx mega-linter-runner --flavor documentation --env "'MEGALINTER_CONFIG=.github/config/megalinter.yaml'" --remove-container
+MKDOCS_SERVER := mkdocs serve --dev-addr localhost:7777
 
 # Makefile file and directory name wildcard
 EDN-FILES := $(wildcard *.edn)
@@ -27,9 +31,13 @@ EDN-FILES := $(wildcard *.edn)
 
 pre-commit-check: lint
 
-lint:  ## Run MegaLinter with custom configuration
+lint:  ## Run MegaLinter with custom configuration (node.js required)
 	$(info --------- MegaLinter Runner ---------)
-	mega-linter-runner --flavor documentation --env 'MEGALINTER_CONFIG=.github/config/mega-linter.yml'
+	$(MEGALINTER_RUNNER)
+
+lint-fix:  ## Run MegaLinter with custom configuration (node.js required)
+	$(info --------- MegaLinter Runner ---------)
+	$(MEGALINTER_RUNNER) --fix
 
 lint-clean:  ## Clean MegaLinter report information
 	$(info --------- MegaLinter Clean Reports ---------)
@@ -42,11 +50,11 @@ lint-clean:  ## Clean MegaLinter report information
 
 docs:  ## Build and run mkdocs in local server
 	$(info --------- Mkdocs Local Server ---------)
-	mkdocs serve --dev-addr localhost:7777
+	$(MKDOCS_SERVER)
 
 docs-changed:  ## Build only changed files and run mkdocs in local server
 	$(info --------- Mkdocs Local Server ---------)
-	mkdocs serve --dirtyreload --dev-addr localhost:7777
+	$(MKDOCS_SERVER) --dirtyreload
 
 docs-build:  ## Build mkdocs
 	$(info --------- Mkdocs Local Server ---------)
