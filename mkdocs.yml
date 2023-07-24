@@ -134,3 +134,8 @@ nav:
   - Install:
       - install/index.md
       - install/git-config.md
+  - Reference:
+      - reference/index.md
+      - Git:
+          - reference/git/index.md
+          - reference/git/clone.md
