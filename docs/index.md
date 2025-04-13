@@ -1,50 +1,35 @@
-# Clojure GitOps
+# Practicalli GitOps
 
-Continuous integration (CI) and Continuous Deployment (CD) for Clojure services
+Practicalli Clojure GitOps provides a hands on approach to learn and practice effective CI & CD workflows.
 
-A practical guide with step by step explanations of code and design decisions and live coding videos to demonstrate the Clojure REPL workflow.
-
-!!! QUOTE - "John Stevenson, Practical.li"
-    Clojure - an elegant language for a more civilised development experience
-
+Guides for local and remote Git workflows for effective project build, test and deployment.  Specific information is provided for Clojure projects, although most of the content is applicable to any programming language.
 
 ![GitOps Continuous Integration Workflow concept](https://raw.githubusercontent.com/practicalli/graphic-design/live/continuous-integration/continuous-integration-overview.svg)
 
 
-## Clojure CI & CD workflow
+??? INFO "Related Books"
+    [:fontawesome-solid-book-open: Practicalli Clojure Web Services](https://practical.li/clojure-web-services) provides a practical guide to creating APIs and Web Services with Clojure.
 
-!!! TODO "Clojure CI and CD pipeline graphic"
-
-TODO: GitHub marketplace actions
-- clojure setup
-- clj-kondo setup
+    [:fontawesome-solid-book-open: Practicalli Clojure Web Services](https://practical.li/clojure-web-services){target=_blank .md-button}
 
 
-## Configure git
-
-github email private with alias for public address, to prevent spam
-default branch
-github token
-- using Magit forge
+!!! INFO "Initial focus around GitHub.com"
+    The majority of open source projects are managed via GitHub.com and its workflows, so this is the initial focus of the Practicalli GitOps book.  Other services, e.g. GitLab will also be covered. 
 
 
-![Heroku Pipeline](https://raw.githubusercontent.com/practicalli/graphic-design/live/continuous-integration/heroku/heroku-pipeline-banking-on-clojure.png)
+??? TODO "Clojure CI and CD pipeline infographic"
 
+??? TODO "GitHub marketplace actions"
+    - clojure setup
+    - clj-kondo setup
 
-## About the book
-
-Practicalli Clojure GitOps provides a hands on approach to learn and practice effective CI & CD workflows.
-
-[Practicalli Clojure Web Services](https://practical.li/clojure-web-services) provides a practical guide to creating APIs and Web Services with Clojure.
-
-[Practicalli Clojure Web Services](https://practical.li/clojure-web-services){target=_blank .md-button}
 
 
 ## Resources
 
-[Practicalli Clojure CLI Config - additonal tools via aliases](/clojure/clojure-cli/practicalli-config/){target=_blank .md-button}
-[Clojure Aware Editors](/clojure/clojure-editors){target=_blank .md-button}
-[Practicalli YouTube channel](https://youtube.co/practicalli){target=_blank .md-button}
+[:globe_with_meridians: Practicalli Website](https://practical.li/){target=_blank .md-button}
+
+[:fontawesome-brands-youtube: Practicalli YouTube channel](https://youtube.co/practicalli){target=_blank .md-button}
 
 
 ## Navigate the book
