@@ -4,6 +4,7 @@ site_name: Practicalli GitOps
 site_url: https://practical.li/gitops
 site_description: Practical guide to Continuous Integration and Deployment of Clojure via Git
 site_author: Practicalli
+site_org: https://practical.li/
 copyright: Copyright &copy 2023  Practicali <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>
 repo_url: https://github.com/practicalli/gitops/
 edit_uri: https://github.com/practicalli/gitops/edit/main/docs/
@@ -28,7 +29,7 @@ theme:
     - navigation.indexes # Nav sections can have files
     - navigation.instant # Avoid page reloading for internal links
     - navigation.top
-    - navigation.tracking # Update URL with anchor
+    - navigation.tracking # Update URL with sub-heading anchor names
   palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
@@ -38,7 +39,6 @@ theme:
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
-
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
@@ -62,12 +62,13 @@ markdown_extensions:
   - md_in_html # Grids
   - footnotes # footnotes and abbreviations
   - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.inlinehilite
-  - pymdownx.snippets
+  - pymdownx.snippets:
+      url_download: true
   - pymdownx.superfences:
       custom_fences:
         - name: mermaid
@@ -112,6 +113,8 @@ extra:
     provider: google
     property: G-QZ22Z9DH4T
   social:
+    - icon: material/web
+      link: https://practical.li/
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/jr0cket/
     - icon: fontawesome/brands/slack
@@ -131,9 +134,40 @@ nav:
       - REPL Workflow: introduction/repl-workflow.md
       - Contributing: introduction/contributing.md
       - Writing Tips: introduction/writing-tips.md
-  - Install:
-      - install/index.md
-      - install/git-config.md
+  - Git:
+      - git/index.md
+      - git/configure-git.md
+      - git/tutorial.md
+      - git/aliases.md
+      - git/aliases-for-nicer-git-output.md
+      - Local Workflow:
+          - git/create-a-git-repository.md
+          - git/check-changes.md
+  - GitHub:
+      - git/chapter10-collaborating-with-github.md
+      - git/create-github-account.md
+      - git/clone.md
+      - git/create-your-project.md
+      - git/creating-a-branch.md
+      - git/git-clients.md
+      # - git/git-in-2-minutes.md
+      - git/git-overview.md
+      - git/github-overview.md
+      - git/ignoring-files.md
+      - git/local-git-workflow.md
+      - git/merging-changes.md
+      - git/readme.md
+      - git/wip.md
+      - git/tips/index.md
+      - git/tips/branching-stragegies.md
+      - git/tips/common-pitfalls.md
+      - git/tips/creating-a-branch.md
+      - git/tips/git-flow.md
+      - git/tips/github-workflow.md
+      - git/tips/interactive-staging.md
+      - git/tips/merging-changes.md
+      - git/tips/understanding-hunks.md
+      - introduction/ci-workflow.md
   - Reference:
       - reference/index.md
       - Git:
