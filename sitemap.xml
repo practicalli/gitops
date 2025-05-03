@@ -2,266 +2,266 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://practical.li/gitops/</loc>
-         <lastmod>2025-04-13</lastmod>
+         <lastmod>2025-05-03</lastmod>
     </url>
     <url>
          <loc>https://practical.li/gitops/assets/images/social/</loc>
-         <lastmod>2025-04-13</lastmod>
+         <lastmod>2025-05-03</lastmod>
     </url>
     <url>
          <loc>https://practical.li/gitops/git/</loc>
-         <lastmod>2025-04-13</lastmod>
+         <lastmod>2025-05-03</lastmod>
     </url>
     <url>
          <loc>https://practical.li/gitops/git/aliases-for-nicer-git-output/</loc>
-         <lastmod>2025-04-13</lastmod>
+         <lastmod>2025-05-03</lastmod>
     </url>
     <url>
          <loc>https://practical.li/gitops/git/aliases/</loc>
-         <lastmod>2025-04-13</lastmod>
+         <lastmod>2025-05-03</lastmod>
     </url>
     <url>
          <loc>https://practical.li/gitops/git/chapter10-collaborating-with-github/</loc>
-         <lastmod>2025-04-13</lastmod>
+         <lastmod>2025-05-03</lastmod>
     </url>
     <url>
          <loc>https://practical.li/gitops/git/check-changes/</loc>
-         <lastmod>2025-04-13</lastmod>
+         <lastmod>2025-05-03</lastmod>
     </url>
     <url>
          <loc>https://practical.li/gitops/git/clone/</loc>
-         <lastmod>2025-04-13</lastmod>
+         <lastmod>2025-05-03</lastmod>
     </url>
     <url>
          <loc>https://practical.li/gitops/git/config/</loc>
-         <lastmod>2025-04-13</lastmod>
+         <lastmod>2025-05-03</lastmod>
     </url>
     <url>
          <loc>https://practical.li/gitops/git/create-a-git-repository/</loc>
-         <lastmod>2025-04-13</lastmod>
+         <lastmod>2025-05-03</lastmod>
     </url>
     <url>
          <loc>https://practical.li/gitops/git/create-github-account/</loc>
-         <lastmod>2025-04-13</lastmod>
+         <lastmod>2025-05-03</lastmod>
     </url>
     <url>
          <loc>https://practical.li/gitops/git/create-your-project/</loc>
-         <lastmod>2025-04-13</lastmod>
+         <lastmod>2025-05-03</lastmod>
     </url>
     <url>
          <loc>https://practical.li/gitops/git/creating-a-branch/</loc>
-         <lastmod>2025-04-13</lastmod>
+         <lastmod>2025-05-03</lastmod>
     </url>
     <url>
          <loc>https://practical.li/gitops/git/git-clients/</loc>
-         <lastmod>2025-04-13</lastmod>
+         <lastmod>2025-05-03</lastmod>
     </url>
     <url>
          <loc>https://practical.li/gitops/git/git-overview/</loc>
-         <lastmod>2025-04-13</lastmod>
+         <lastmod>2025-05-03</lastmod>
     </url>
     <url>
          <loc>https://practical.li/gitops/git/github-overview/</loc>
-         <lastmod>2025-04-13</lastmod>
+         <lastmod>2025-05-03</lastmod>
     </url>
     <url>
          <loc>https://practical.li/gitops/git/ignoring-files/</loc>
-         <lastmod>2025-04-13</lastmod>
+         <lastmod>2025-05-03</lastmod>
     </url>
     <url>
          <loc>https://practical.li/gitops/git/local-git-workflow/</loc>
-         <lastmod>2025-04-13</lastmod>
+         <lastmod>2025-05-03</lastmod>
     </url>
     <url>
          <loc>https://practical.li/gitops/git/merging-changes/</loc>
-         <lastmod>2025-04-13</lastmod>
+         <lastmod>2025-05-03</lastmod>
     </url>
     <url>
          <loc>https://practical.li/gitops/git/readme/</loc>
-         <lastmod>2025-04-13</lastmod>
+         <lastmod>2025-05-03</lastmod>
     </url>
     <url>
          <loc>https://practical.li/gitops/git/tutorial/</loc>
-         <lastmod>2025-04-13</lastmod>
+         <lastmod>2025-05-03</lastmod>
     </url>
     <url>
          <loc>https://practical.li/gitops/git/wip/</loc>
-         <lastmod>2025-04-13</lastmod>
+         <lastmod>2025-05-03</lastmod>
     </url>
     <url>
          <loc>https://practical.li/gitops/git/tips/</loc>
-         <lastmod>2025-04-13</lastmod>
+         <lastmod>2025-05-03</lastmod>
     </url>
     <url>
          <loc>https://practical.li/gitops/git/tips/branching-stragegies/</loc>
-         <lastmod>2025-04-13</lastmod>
+         <lastmod>2025-05-03</lastmod>
     </url>
     <url>
          <loc>https://practical.li/gitops/git/tips/common-pitfalls/</loc>
-         <lastmod>2025-04-13</lastmod>
+         <lastmod>2025-05-03</lastmod>
     </url>
     <url>
          <loc>https://practical.li/gitops/git/tips/creating-a-branch/</loc>
-         <lastmod>2025-04-13</lastmod>
+         <lastmod>2025-05-03</lastmod>
     </url>
     <url>
          <loc>https://practical.li/gitops/git/tips/git-flow/</loc>
-         <lastmod>2025-04-13</lastmod>
+         <lastmod>2025-05-03</lastmod>
     </url>
     <url>
          <loc>https://practical.li/gitops/git/tips/github-workflow/</loc>
-         <lastmod>2025-04-13</lastmod>
+         <lastmod>2025-05-03</lastmod>
     </url>
     <url>
          <loc>https://practical.li/gitops/git/tips/interactive-staging/</loc>
-         <lastmod>2025-04-13</lastmod>
+         <lastmod>2025-05-03</lastmod>
     </url>
     <url>
          <loc>https://practical.li/gitops/git/tips/merging-changes/</loc>
-         <lastmod>2025-04-13</lastmod>
+         <lastmod>2025-05-03</lastmod>
     </url>
     <url>
          <loc>https://practical.li/gitops/git/tips/understanding-hunks/</loc>
-         <lastmod>2025-04-13</lastmod>
+         <lastmod>2025-05-03</lastmod>
     </url>
     <url>
          <loc>https://practical.li/gitops/git/to-review/git-basics/</loc>
-         <lastmod>2025-04-13</lastmod>
+         <lastmod>2025-05-03</lastmod>
     </url>
     <url>
          <loc>https://practical.li/gitops/git/to-review/git-basics/aliases-for-nicer-git-output/</loc>
-         <lastmod>2025-04-13</lastmod>
+         <lastmod>2025-05-03</lastmod>
     </url>
     <url>
          <loc>https://practical.li/gitops/git/to-review/git-basics/chapter10-collaborating-with-github/</loc>
-         <lastmod>2025-04-13</lastmod>
+         <lastmod>2025-05-03</lastmod>
     </url>
     <url>
          <loc>https://practical.li/gitops/git/to-review/git-basics/checking-for-changes/</loc>
-         <lastmod>2025-04-13</lastmod>
+         <lastmod>2025-05-03</lastmod>
     </url>
     <url>
          <loc>https://practical.li/gitops/git/to-review/git-basics/configure-git/</loc>
-         <lastmod>2025-04-13</lastmod>
+         <lastmod>2025-05-03</lastmod>
     </url>
     <url>
          <loc>https://practical.li/gitops/git/to-review/git-basics/create-a-git-repository/</loc>
-         <lastmod>2025-04-13</lastmod>
+         <lastmod>2025-05-03</lastmod>
     </url>
     <url>
          <loc>https://practical.li/gitops/git/to-review/git-basics/create-github-account/</loc>
-         <lastmod>2025-04-13</lastmod>
+         <lastmod>2025-05-03</lastmod>
     </url>
     <url>
          <loc>https://practical.li/gitops/git/to-review/git-basics/create-your-project/</loc>
-         <lastmod>2025-04-13</lastmod>
+         <lastmod>2025-05-03</lastmod>
     </url>
     <url>
          <loc>https://practical.li/gitops/git/to-review/git-basics/creating-a-branch/</loc>
-         <lastmod>2025-04-13</lastmod>
+         <lastmod>2025-05-03</lastmod>
     </url>
     <url>
          <loc>https://practical.li/gitops/git/to-review/git-basics/git-clients/</loc>
-         <lastmod>2025-04-13</lastmod>
+         <lastmod>2025-05-03</lastmod>
     </url>
     <url>
          <loc>https://practical.li/gitops/git/to-review/git-basics/git-in-2-minutes/</loc>
-         <lastmod>2025-04-13</lastmod>
+         <lastmod>2025-05-03</lastmod>
     </url>
     <url>
          <loc>https://practical.li/gitops/git/to-review/git-basics/git-overview/</loc>
-         <lastmod>2025-04-13</lastmod>
+         <lastmod>2025-05-03</lastmod>
     </url>
     <url>
          <loc>https://practical.li/gitops/git/to-review/git-basics/github-overview/</loc>
-         <lastmod>2025-04-13</lastmod>
+         <lastmod>2025-05-03</lastmod>
     </url>
     <url>
          <loc>https://practical.li/gitops/git/to-review/git-basics/ignoring-files/</loc>
-         <lastmod>2025-04-13</lastmod>
+         <lastmod>2025-05-03</lastmod>
     </url>
     <url>
          <loc>https://practical.li/gitops/git/to-review/git-basics/local-git-workflow/</loc>
-         <lastmod>2025-04-13</lastmod>
+         <lastmod>2025-05-03</lastmod>
     </url>
     <url>
          <loc>https://practical.li/gitops/git/to-review/git-basics/merging-changes/</loc>
-         <lastmod>2025-04-13</lastmod>
+         <lastmod>2025-05-03</lastmod>
     </url>
     <url>
          <loc>https://practical.li/gitops/git/to-review/git-basics/readme/</loc>
-         <lastmod>2025-04-13</lastmod>
+         <lastmod>2025-05-03</lastmod>
     </url>
     <url>
          <loc>https://practical.li/gitops/git/to-review/git-basics/wip/</loc>
-         <lastmod>2025-04-13</lastmod>
+         <lastmod>2025-05-03</lastmod>
     </url>
     <url>
          <loc>https://practical.li/gitops/git/to-review/git-tips/</loc>
-         <lastmod>2025-04-13</lastmod>
+         <lastmod>2025-05-03</lastmod>
     </url>
     <url>
          <loc>https://practical.li/gitops/git/to-review/git-tips/branching-stragegies/</loc>
-         <lastmod>2025-04-13</lastmod>
+         <lastmod>2025-05-03</lastmod>
     </url>
     <url>
          <loc>https://practical.li/gitops/git/to-review/git-tips/common-pitfalls/</loc>
-         <lastmod>2025-04-13</lastmod>
+         <lastmod>2025-05-03</lastmod>
     </url>
     <url>
          <loc>https://practical.li/gitops/git/to-review/git-tips/creating-a-branch/</loc>
-         <lastmod>2025-04-13</lastmod>
+         <lastmod>2025-05-03</lastmod>
     </url>
     <url>
          <loc>https://practical.li/gitops/git/to-review/git-tips/git-flow/</loc>
-         <lastmod>2025-04-13</lastmod>
+         <lastmod>2025-05-03</lastmod>
     </url>
     <url>
          <loc>https://practical.li/gitops/git/to-review/git-tips/github-workflow/</loc>
-         <lastmod>2025-04-13</lastmod>
+         <lastmod>2025-05-03</lastmod>
     </url>
     <url>
          <loc>https://practical.li/gitops/git/to-review/git-tips/interactive-staging/</loc>
-         <lastmod>2025-04-13</lastmod>
+         <lastmod>2025-05-03</lastmod>
     </url>
     <url>
          <loc>https://practical.li/gitops/git/to-review/git-tips/merging-changes/</loc>
-         <lastmod>2025-04-13</lastmod>
+         <lastmod>2025-05-03</lastmod>
     </url>
     <url>
          <loc>https://practical.li/gitops/git/to-review/git-tips/understanding-hunks/</loc>
-         <lastmod>2025-04-13</lastmod>
+         <lastmod>2025-05-03</lastmod>
     </url>
     <url>
          <loc>https://practical.li/gitops/introduction/ci-workflow/</loc>
-         <lastmod>2025-04-13</lastmod>
+         <lastmod>2025-05-03</lastmod>
     </url>
     <url>
          <loc>https://practical.li/gitops/introduction/contributing/</loc>
-         <lastmod>2025-04-13</lastmod>
+         <lastmod>2025-05-03</lastmod>
     </url>
     <url>
          <loc>https://practical.li/gitops/introduction/gitops/</loc>
-         <lastmod>2025-04-13</lastmod>
+         <lastmod>2025-05-03</lastmod>
     </url>
     <url>
          <loc>https://practical.li/gitops/introduction/repl-workflow/</loc>
-         <lastmod>2025-04-13</lastmod>
+         <lastmod>2025-05-03</lastmod>
     </url>
     <url>
          <loc>https://practical.li/gitops/introduction/writing-tips/</loc>
-         <lastmod>2025-04-13</lastmod>
+         <lastmod>2025-05-03</lastmod>
     </url>
     <url>
          <loc>https://practical.li/gitops/reference/</loc>
-         <lastmod>2025-04-13</lastmod>
+         <lastmod>2025-05-03</lastmod>
     </url>
     <url>
          <loc>https://practical.li/gitops/reference/git/</loc>
-         <lastmod>2025-04-13</lastmod>
+         <lastmod>2025-05-03</lastmod>
     </url>
     <url>
          <loc>https://practical.li/gitops/reference/git/clone/</loc>
-         <lastmod>2025-04-13</lastmod>
+         <lastmod>2025-05-03</lastmod>
     </url>
 </urlset>
